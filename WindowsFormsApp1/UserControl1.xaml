@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="WindowsFormsApp1.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WindowsFormsApp1"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <DataGrid x:Name="DataGrid1" AutoGenerateColumns="False" SelectionMode="Single" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,10,200,146">
+        <DataGrid.Columns>
+                <DataGridTextColumn Header="현재온도값"
+                    Binding="{Binding CurrentTmp, UpdateSourceTrigger=PropertyChanged}" />
+
+                <DataGridTextColumn Header="세팅된 타겟 온도값"
+                    Binding="{Binding TargetTemp}" />
+
+                <DataGridTextColumn Header="P게인"
+                    Binding="{Binding P_Gain, UpdateSourceTrigger=PropertyChanged}" />
+
+                <DataGridTextColumn Header="I게인"
+                    Binding="{Binding I_Gain, UpdateSourceTrigger=PropertyChanged}" />
+
+                <DataGridTextColumn Header="D게인"
+                    Binding="{Binding D_Gain, UpdateSourceTrigger=PropertyChanged}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Btn_Set_Value" Content="Button" HorizontalAlignment="Left" Margin="163,380,0,0" VerticalAlignment="Top" Click="Btn_Set_Value_Click"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="28,380,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="comboBox1" HorizontalAlignment="Left" Margin="28,354,0,0" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</UserControl>

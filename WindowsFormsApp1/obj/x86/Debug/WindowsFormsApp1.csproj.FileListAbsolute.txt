@@ -1,0 +1,122 @@
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\NMC2.dll
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\bin\x86\Debug\NMC2.dll
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_269810_2017\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\bin\x86\Debug\NMC2.dll
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습 - 복사본_260813_1515\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.g.cs
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.cache
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.lref
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.baml
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.g.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.g.cs
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.baml
+C:\Users\admin\Downloads\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_Content.g.cs
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.g.cs
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.g.cs
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_Content.g.cs
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.cache
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.lref
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.baml
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.baml
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.g.resources
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form3.resources
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+D:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.g.cs
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.g.cs
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_Content.g.cs
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.cache
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.lref
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.baml
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.baml
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.g.resources
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form3.resources
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+E:\차반제 통신 실습\TK4S_NMC2통신 실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.g.cs
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.g.cs
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_Content.g.cs
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.cache
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1_MarkupCompile.lref
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\UserControl1.baml
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\UserControl2.baml
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.g.resources
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\i0103\OneDrive\바탕 화면\TK4S_NMC2통신_실습\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
