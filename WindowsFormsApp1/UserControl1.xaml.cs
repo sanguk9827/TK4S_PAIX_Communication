@@ -17,7 +17,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 using static WindowsFormsApp1.Form1;
-
+using System;
 namespace WindowsFormsApp1
 {
     /// <summary>
